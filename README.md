@@ -1,4 +1,4 @@
-![Image text](https://github.com/Daninja111/TPfinal_TST/blob/4e5dfef84a2291d1f089dca5061da4ef98abaa57/Portada.png)
+![Image text](https://github.com/Daninja111/TPfinal_TST/blob/c24771c205419c8d69a9d3f82b82134862846af1/PORTADA_TP_TST.png)
 
 # TPfinal_TST
 
